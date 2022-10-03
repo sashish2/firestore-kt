@@ -22,12 +22,12 @@ if the tool is closed then you can follow the step 1 to bring it back.
 
 
 
-## Subscibe my Channel
-[YouTube](https://www.youtube.com/channel/UC1Rou8dmWhkcCvrJo6v3T0A "Stark Creativity")
+### Subscibe my Channel
+<!-- [YouTube](https://www.youtube.com/channel/UC1Rou8dmWhkcCvrJo6v3T0A "Stark Creativity") -->
 ![YouTube](https://yt3.ggpht.com/gPzR41tUGvurRHy3RIFz4X6mxghbODwZhEkZTlr0e7mHHzM6_v1c8FJRei-oQGBhplVWEoQ56Q=s176-c-k-c0x00ffffff-no-rj)
 
 
-## Follow me on Instagram
+#### Follow me on Instagram
 [Instagram](https://www.instagram.com/ashish_____.__/ "Ashish Sharma")
 [Blog](http://starkcreativity.blogspot.com/ "Stark Creativity")
 
